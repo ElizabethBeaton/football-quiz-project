@@ -1,0 +1,116 @@
+      body {
+        background: linear-gradient(
+          104deg,
+          rgb(246, 240, 240) 0%,
+          rgb(103, 11, 16) 68%
+        );
+      }
+      h1 {
+        text-align: center;
+        color: #0e2f36;
+        font-size: 60px;
+        font-family: chalkduster, fantasy;
+        line-height: 70px;
+      }
+      h2 {
+        text-align: center;
+        color: #0e2f36;
+        font-size: 40px;
+        font-family: chalkduster, fantasy;
+        font-weight: bolder;
+      }
+      h3 {
+        text-align: right;
+        font-family: chalkduster, fantasy;
+        color: #ffffff;
+        font-size: small;
+      }
+      li {
+        list-style: none;
+        padding: 30;
+        margin: 0;
+        text-align: center;
+      }
+      img {
+        max-width: 350px;
+        border-radius: 20px;
+        text-align: center;
+      }
+      hr {
+        border-top: 5px solid #0e2f36;
+      }
+      button {
+        margin: 20px auto;
+        display: block;
+        color: #ffffff;
+        background: transparent;
+        font-size: 18px;
+        font-family: chalkduster, fantasy;
+        padding: 15px 20px;
+        border: 5px solid #ffffff;
+        border-radius: 30px;
+        box-shadow: 2px 5px 5px rgb(0 0 0/ 20%);
+        transition: all 200ms ease-in-out;
+      }
+      button:hover {
+        background-color: #e7eaf6;
+        color: #0e2f36;
+        cursor: pointer;
+      }
+      .quiz {
+        font-size: 26px;
+        font-weight: bold;
+        font-family: chalkduster, fantasy;
+        color: #ffffff;
+      }
+      .link {
+        color: #ffffff;
+        font-size: 30px;
+      }
+      .football-players {
+        padding: 30px;
+        display: inline-block;
+        height: auto;
+        text-align: center;
+        margin: 30px;
+      }
+      .ball {
+        font-size: 60px;
+      }
+      #messi {
+        box-shadow: 20px 20px 40px #0f100f;
+        cursor: pointer;
+      }
+      #ronaldo {
+        box-shadow: 20px 20px 40px #0f100f;
+        cursor: pointer;
+      }
+      #neymar {
+        box-shadow: 20px 20px 40px #0f100f;
+        cursor: pointer;
+      }
+      #debruyne {
+        box-shadow: 20px 50px 40px #0f100f;
+        cursor: pointer;
+      }
+      #mbappe {
+        box-shadow: 20px 50px 40px #0f100f;
+        cursor: pointer;
+      }
+      #bellingham {
+        box-shadow: 20px 50px 40px #0f100f;
+        cursor: pointer;
+      }
+      #kane {
+        box-shadow: 20px 50px 40px #0f100f;
+        cursor: pointer;
+      }
+      #griezmann {
+        box-shadow: 20px 50px 40px #0f100f;
+        cursor: pointer;
+      }
+      #benzema {
+        box-shadow: 20px 50px 40px #0f100f;
+        cursor: pointer;
+      }
+    
